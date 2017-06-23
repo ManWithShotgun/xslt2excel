@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+<items type="timereport">
+	<item>
+		<field name="userName"><![CDATA[User1]]></field>
+		<field name="href"><![CDATA[https://pmc.epam.com:443/pmc/timejournal/list.do?personId=601600000000270&date=1494028800000]]></field>
+		<field name="activityName"><![CDATA[R8.3 bug fix]]></field>
+		<field name="description"><![CDATA[Feedback: GA-22249: OSA2.0-Research : Search_CitationSearch method fails to display the document summary in the response when valid citation search is performed.]]></field>
+		<field name="activityHours"><![CDATA[2.0]]></field>
+		<field name="activityStartDate"><![CDATA[5/7/17]]></field>
+	</item>
+	<item>
+		<field name="userName"><![CDATA[User1]]></field>
+		<field name="href"><![CDATA[https://pmc.epam.com:443/pmc/timejournal/list.do?personId=601600000000270&date=1494028800000]]></field>
+		<field name="activityName"><![CDATA[R8.3 bug fix]]></field>
+		<field name="description"><![CDATA[Feedback: GA-22249: OSA2.0-Research : Search_CitationSearch method fails to display the document summary in the response when valid citation search is performed.]]></field>
+		<field name="activityHours"><![CDATA[6.0]]></field>
+		<field name="activityStartDate"><![CDATA[5/7/17]]></field>
+	</item>
+	<item>
+		<field name="userName"><![CDATA[User1]]></field>
+		<field name="href"><![CDATA[https://pmc.epam.com:443/pmc/timejournal/list.do?personId=601600000000270&date=1494028800000]]></field>
+		<field name="activityName"><![CDATA[R8.3 bug fix]]></field>
+		<field name="description"><![CDATA[Code complete: GA-22272: OSA2.0-Research: System fails to throw valid exception when Save/Rename/DeleteSavedSearches methods are executed for Mandatory scenarios.]]></field>
+		<field name="activityHours"><![CDATA[1.5]]></field>
+		<field name="activityStartDate"><![CDATA[5/6/17]]></field>
+	</item>
+	<item>
+		<field name="userName"><![CDATA[User1]]></field>
+		<field name="href"><![CDATA[https://pmc.epam.com:443/pmc/timejournal/list.do?personId=601600000000270&date=1494028800000]]></field>
+		<field name="activityName"><![CDATA[R8.3 bug fix]]></field>
+		<field name="description"><![CDATA[Feedback: GA-22249: OSA2.0-Research : Search_CitationSearch method fails to display the document summary in the response when valid citation search is performed.]]></field>
+		<field name="activityHours"><![CDATA[7.1]]></field>
+		<field name="activityStartDate"><![CDATA[5/7/17]]></field>
+	</item>
+	<item>
+		<field name="userName"><![CDATA[User1]]></field>
+		<field name="href"><![CDATA[https://pmc.epam.com:443/pmc/timejournal/list.do?personId=601600000000270&date=1494028800000]]></field>
+		<field name="activityName"><![CDATA[R8.3 bug fix]]></field>
+		<field name="description"><![CDATA[Feedback: GA-22249: OSA2.0-Research : Search_CitationSearch method fails to display the document summary in the response when valid citation search is performed.]]></field>
+		<field name="activityHours"><![CDATA[8.0]]></field>
+		<field name="activityStartDate"><![CDATA[5/7/17]]></field>
+	</item>
+
+	<item>
+		<field name="userName"><![CDATA[User2]]></field>
+		<field name="href"><![CDATA[https://pmc.epam.com:443/pmc/timejournal/list.do?personId=601600000000270&date=1494028800000]]></field>
+		<field name="activityName"><![CDATA[R8.3 bug fix]]></field>
+		<field name="description"><![CDATA[Feedback: GA-22249: OSA2.0-Research : Search_CitationSearch method fails to display the document summary in the response when valid citation search is performed.]]></field>
+		<field name="activityHours"><![CDATA[2.0]]></field>
+		<field name="activityStartDate"><![CDATA[5/6/17]]></field>
+	</item>
+	<item>
+		<field name="userName"><![CDATA[User3]]></field>
+		<field name="href"><![CDATA[https://pmc.epam.com:443/pmc/timejournal/list.do?personId=601600000000270&date=1494028800000]]></field>
+		<field name="activityName"><![CDATA[R8.3 bug fix]]></field>
+		<field name="description"><![CDATA[Code complete: GA-22272: OSA2.0-Research: System fails to throw valid exception when Save/Rename/DeleteSavedSearches methods are executed for Mandatory scenarios.]]></field>
+		<field name="activityHours"><![CDATA[1.5]]></field>
+		<field name="activityStartDate"><![CDATA[5/6/17]]></field>
+	</item>
+	<item>
+		<field name="userName"><![CDATA[User3]]></field>
+		<field name="href"><![CDATA[https://pmc.epam.com:443/pmc/timejournal/list.do?personId=601600000000270&date=1494028800000]]></field>
+		<field name="activityName"><![CDATA[R8.3 bug fix]]></field>
+		<field name="description"><![CDATA[Code complete: GA-22272: OSA2.0-Research: System fails to throw valid exception when Save/Rename/DeleteSavedSearches methods are executed for Mandatory scenarios.]]></field>
+		<field name="activityHours"><![CDATA[7.7]]></field>
+		<field name="activityStartDate"><![CDATA[5/6/17]]></field>
+	</item>
+	<item>
+		<field name="userName"><![CDATA[User3]]></field>
+		<field name="href"><![CDATA[https://pmc.epam.com:443/pmc/timejournal/list.do?personId=601600000000270&date=1494028800000]]></field>
+		<field name="activityName"><![CDATA[R8.3 bug fix]]></field>
+		<field name="description"><![CDATA[Code complete: GA-AAAAA: OSA2.0-Research: System fails to throw valid exception when Save/Rename/DeleteSavedSearches methods are executed for Mandatory scenarios.]]></field>
+		<field name="activityHours"><![CDATA[1.5]]></field>
+		<field name="activityStartDate"><![CDATA[5/6/17]]></field>
+	</item>
+
+</items>
